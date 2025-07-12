@@ -56,3 +56,12 @@ function generatePassword(lower, upper, number, symbol, length) {
 
   return generatedPassword.slice(0, length);
 }
+
+// Project: Password Generator
+// Author: Kamran Javed
+// Portfolio: https://kamranjaved.com
+// Company: OneDigitalLine
+// Website: https://onedigitalline.com
+// Email: meet@kamranjaved.com
+// License: For personal or client use only. Redistribution prohibited.
+// © Kamran Javed. All rights reserved.
