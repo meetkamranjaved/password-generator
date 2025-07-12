@@ -11,7 +11,7 @@ A modern, responsive Password Generator built with **HTML**, **CSS (Poppins font
 ---
 
 ## 🚀 Demo
-[Live Demo](https://projects.kamranjaved.online/password-generator)
+[Live Demo](https://projects.kamranjaved.com/password-generator)
 
 ---
 
@@ -49,4 +49,4 @@ A modern, responsive Password Generator built with **HTML**, **CSS (Poppins font
 
 ---
 
-> Developed with ❤️ by [Kamran Javed](https://kamranjaved.online)
+> Developed with ❤️ by [Kamran Javed](https://kamranjaved.com)
